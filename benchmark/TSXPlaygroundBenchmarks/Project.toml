@@ -1,0 +1,8 @@
+name = "TSXPlaygroundBenchmarks"
+uuid = "18b1ebe1-c804-467a-8959-8d2a21eb1e26"
+authors = ["Takafumi Arakaki <aka.tkf@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+TSXPlayground = "4ad7afaa-f16e-4c25-b718-b8b8e54957f2"

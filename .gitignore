@@ -1,1 +1,4 @@
-/Manifest.toml
+/Make.user
+/benchmark/*.json
+/benchmark/results.md
+Manifest.toml

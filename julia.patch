@@ -1,0 +1,12 @@
+diff --git a/src/processor_x86.cpp b/src/processor_x86.cpp
+index eab2c77ad9..81235eca50 100644
+--- a/src/processor_x86.cpp
++++ b/src/processor_x86.cpp
+@@ -967,6 +967,7 @@ get_llvm_target_noext(const TargetData<feature_sz> &data)
+     // returns a value that may not have 64bit support.
+     // This can happen with virtualization.
+     features.push_back("+64bit");
++    features.push_back("+rtm");
+ #endif
+     features.push_back("+cx8");
+     return std::make_pair(std::move(name), std::move(features));

@@ -1,0 +1,5 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+PkgBenchmark = "32113eaa-f34f-5b0d-bd6c-c81e245fc73d"
+TSXPlayground = "4ad7afaa-f16e-4c25-b718-b8b8e54957f2"
+TSXPlaygroundBenchmarks = "18b1ebe1-c804-467a-8959-8d2a21eb1e26"

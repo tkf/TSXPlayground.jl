@@ -1,0 +1,8 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+TSXPlayground = "4ad7afaa-f16e-4c25-b718-b8b8e54957f2"
+TSXPlaygroundBenchmarks = "18b1ebe1-c804-467a-8959-8d2a21eb1e26"
+TerminalLoggers = "5d786b92-1e48-4d6f-9151-6b4477ca9bed"
+VegaLite = "112f6efa-9a02-5b7d-90c0-432ed331239a"
